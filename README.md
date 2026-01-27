@@ -50,7 +50,7 @@ I conducted a controlled experiment to compare a baseline model against a comple
 ## **Key Takeaways**
 * **Data Integrity:** Identified data skews and outliers before modeling.
 * **Critical Thinking:** Documented the failure of a complex method to prove a commitment to mathematical accuracy over complexity.
-* **Communication:** Translated raw classification reports into intuitive heatmaps for diverse stakeholders.
+* **Communication:** Translated raw classification reports into intuitive heatmaps.
 
 ---
 
