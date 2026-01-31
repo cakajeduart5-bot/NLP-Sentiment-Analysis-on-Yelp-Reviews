@@ -4,7 +4,7 @@
 ---
 
 ## **Project Overview**
-This project classifies Yelp reviews into 1-star or 5-star categories based on text content. By analyzing a corpus of unstructured data, I built a system to predict consumer sentiment—a skill directly transferable to analyzing market sentiment or earnings call transcripts in a Global Markets context.
+This project classifies Yelp reviews into 1-star or 5-star categories based on text content. By analyzing a corpus of unstructured data, I built a system to predict consumer sentiment—a skill directly transferable to analyzing market sentiment or earnings call transcripts.
 
 ---
 
